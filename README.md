@@ -43,6 +43,13 @@
 
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sevilkilic&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
   
+  ![](https://komarev.com/ghpvc/?username=sevilkilic&color=blueviolet)
+
+
+
+
+
+
 <!--
 **sevilkilic/SevilKilic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
