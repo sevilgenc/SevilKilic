@@ -1,4 +1,4 @@
-# Hi👋 I'm Sevil Kilic :woman_technologist:
+# Hi👋 I'm Sevil GENÇ :woman_technologist:
 ----------------------------------------
 
 
